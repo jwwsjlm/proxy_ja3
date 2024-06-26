@@ -1,0 +1,12 @@
+github.com/Trisia/gosysproxy v1.0.0 h1:T0AR96Ioj18c3+oPs2ptNeLq54PfMqcaKrPm/J4/ojE=
+github.com/Trisia/gosysproxy v1.0.0/go.mod h1:PTPPgpRpyTJEL/FMxEE2OcQcGNbUm961xZcgihwraZM=
+github.com/qtgolang/SunnyNet v1.0.2 h1:Oz/28qAiCdm4NGZtZW8ZhCzmskUGrZAOrg3ZS18bYS8=
+github.com/qtgolang/SunnyNet v1.0.2/go.mod h1:7ijev0f9p7N8ietfayQMkLFEw6SjK5hviWNfCa7NCCQ=
+github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
+github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
+golang.org/x/crypto v0.12.0 h1:tFM/ta59kqch6LlvYnPa0yx5a83cL2nHflFhYKvv9Yk=
+golang.org/x/crypto v0.12.0/go.mod h1:NF0Gs7EO5K4qLn+Ylc+fih8BSTeIjAP05siRnAh98yw=
+golang.org/x/sys v0.11.0 h1:eG7RXZHdqOJ1i+0lgLgCpSXAp6M3LYlAo6osgSi0xOM=
+golang.org/x/sys v0.11.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/text v0.12.0 h1:k+n5B8goJNdU7hSvEtMUz3d1Q6D/XW4COJSJR6fN0mc=
+golang.org/x/text v0.12.0/go.mod h1:TvPlkZtksWOMsz7fbANvkp4WM8x/WCo/om8BMLbz+aE=
